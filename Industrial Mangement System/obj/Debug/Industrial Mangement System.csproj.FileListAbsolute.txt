@@ -1,0 +1,191 @@
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.exe.config
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.exe
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.pdb
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.MenuForm.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Properties.Resources.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.GenerateResource.cache
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.exe
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.pdb
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\ur\Industrial Mangement System.resources.dll
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.MenuForm.ur.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\ur\Industrial Mangement System.resources.dll
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.add_employee_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_edit_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.list_employee_item.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.employee_list_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.attenadanceMark_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.employee_attendance_control.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.attendance_mark_Form2.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_salary_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_Addvance_Rupees.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.for_Help.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.AssemblyReference.cache
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.cut_addvance_rupees_form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Salary_Generator_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Recieved_Order_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Orderd_Items.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.order_items_UserControl.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Order_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Edit_Order_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Deliver_Order_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.manager_details_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.daily_expence_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.daily_expence_items_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.manager_income_details_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Manager_Income.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.sumary_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\ApplicationDatabase.mdf
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\ApplicationDatabase_log.ldf
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.exe.config
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.exe
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.pdb
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\ur\Industrial Mangement System.resources.dll
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.AssemblyReference.cache
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Orderd_Items.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.attenadanceMark_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.attendance_mark_Form2.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.cut_addvance_rupees_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.daily_expence_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.daily_expence_items_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Deliver_Order_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Edit_Order_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_salary_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_Addvance_Rupees.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.employee_attendance_control.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_edit_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.employee_list_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.MenuForm.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.add_employee_form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.list_employee_item.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Manager_Income.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.manager_details_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.manager_income_details_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Order_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.order_items_UserControl.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Properties.Resources.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Recieved_Order_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Salary_Generator_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.sumary_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.MenuForm.ur.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.GenerateResource.cache
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.CoreCompileInputs.cache
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\ur\Industrial Mangement System.resources.dll
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.exe
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.pdb
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Ordered_Items_Edit_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Delivered_Order_List_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Order_Raceed_Pic_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Delivered_Items_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Ordered_Items_Delivery_Details_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Reciev_Order_Item_Rupees_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.CopyComplete
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shopers_UserControl.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Industerial_Expence_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shoper_List_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shoper_Details_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Edit_Shoper_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Pay_Return_Rupees_To_Shopper_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Purcahse_Product_from_Shopper_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Purchased_Items_Record_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Generate_Summary_Report_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Check_Induterial_Expence_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Pay_Borrowed_Rupees_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Order_Recieved_Rupees_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Recieve_Order_Rupees_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\ApplicationDatabase.mdf
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\ApplicationDatabase_log.ldf
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.exe.config
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.exe
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\Industrial Mangement System.pdb
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\ur\Industrial Mangement System.resources.dll
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.Design.dll
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.dll
+E:\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.Fonts.dll
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.AssemblyReference.cache
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Orderd_Items.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Order_Recieved_Rupees_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.add_employee_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.attenadanceMark_form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.attendance_mark_Form2.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Check_Induterial_Expence_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.cut_addvance_rupees_form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.daily_expence_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.daily_expence_items_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Delivered_Items_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Delivered_Order_List_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Deliver_Order_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Edit_Order_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Edit_Shoper_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_salary_form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_Addvance_Rupees.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.employee_attendance_control.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_edit_form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Employee_form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.employee_list_form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.for_Help.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.MenuForm.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Generate_Summary_Report_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Industerial_Expence_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.list_employee_item.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Manager_Income.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.manager_details_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.manager_income_details_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Ordered_Items_Delivery_Details_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Ordered_Items_Edit_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Order_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.order_items_UserControl.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Order_Raceed_Pic_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Pay_Borrowed_Rupees_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Pay_Return_Rupees_To_Shopper_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Properties.Resources.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Purcahse_Product_from_Shopper_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Purchased_Items_Record_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Recieved_Order_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Recieve_Order_Rupees_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Reciev_Order_Item_Rupees_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Salary_Generator_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shopers_UserControl.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shoper_Details_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shoper_List_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.sumary_Form.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.MenuForm.ur.resources
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.GenerateResource.cache
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.CoreCompileInputs.cache
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\ur\Industrial Mangement System.resources.dll
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.CopyComplete
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.exe
+E:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.pdb
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\ApplicationDatabase.mdf
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\ApplicationDatabase_log.ldf
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.dll
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Order_Recieved_Rupees_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Check_Induterial_Expence_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Delivered_Items_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Delivered_Order_List_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Edit_Shoper_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Generate_Summary_Report_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Industerial_Expence_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Ordered_Items_Delivery_Details_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Ordered_Items_Edit_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Order_Raceed_Pic_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Pay_Borrowed_Rupees_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Pay_Return_Rupees_To_Shopper_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Purcahse_Product_from_Shopper_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Purchased_Items_Record_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Recieve_Order_Rupees_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Reciev_Order_Item_Rupees_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shopers_UserControl.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shoper_Details_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Shoper_List_Form.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial Mangement System.csproj.CopyComplete
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Add_Advance_Rupees_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Progress_Bar_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\obj\Debug\Industrial_Mangement_System.Calaculate_Items_Berhoti_Form.resources
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.Design.dll
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.dll
+D:\Industrial Mangement System\Industrial Mangement System\bin\Debug\MetroFramework.Fonts.dll

@@ -1,0 +1,13 @@
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Release\Industrial Mangement System.exe.config
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Release\Industrial Mangement System.exe
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Release\Industrial Mangement System.pdb
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial Mangement System.csprojAssemblyReference.cache
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial_Mangement_System.MenuForm.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial_Mangement_System.Properties.Resources.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial Mangement System.csproj.GenerateResource.cache
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial Mangement System.exe
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial Mangement System.pdb
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\bin\Release\ur\Industrial Mangement System.resources.dll
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\Industrial_Mangement_System.MenuForm.ur.resources
+C:\Users\Hp User\Desktop\Industrial Mangement System\Industrial Mangement System\obj\Release\ur\Industrial Mangement System.resources.dll

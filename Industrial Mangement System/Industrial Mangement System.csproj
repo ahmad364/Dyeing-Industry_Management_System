@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF1D2C36-B6D3-47F9-8604-E4860E032FC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Industrial_Mangement_System</RootNamespace>
+    <AssemblyName>Industrial Mangement System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Orderd Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Orderd Items.Designer.cs">
+      <DependentUpon>Add Orderd Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add Order_Recieved_Rupees_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Order_Recieved_Rupees_Form.Designer.cs">
+      <DependentUpon>Add Order_Recieved_Rupees_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Advance_Rupees_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Advance_Rupees_Form.Designer.cs">
+      <DependentUpon>Add_Advance_Rupees_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_employee_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_employee_Form.Designer.cs">
+      <DependentUpon>add_employee_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApplicationDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="attenadanceMark_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attenadanceMark_form.Designer.cs">
+      <DependentUpon>attenadanceMark_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="attendance_mark_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attendance_mark_Form2.Designer.cs">
+      <DependentUpon>attendance_mark_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calaculate_Items_Berhoti_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calaculate_Items_Berhoti_Form.Designer.cs">
+      <DependentUpon>Calaculate_Items_Berhoti_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Check_Induterial_Expence_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check_Induterial_Expence_Form.Designer.cs">
+      <DependentUpon>Check_Induterial_Expence_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cut_addvance_rupees_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cut_addvance_rupees_form.Designer.cs">
+      <DependentUpon>cut_addvance_rupees_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="daily_expence_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daily_expence_Form.Designer.cs">
+      <DependentUpon>daily_expence_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="daily_expence_items_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daily_expence_items_Form.Designer.cs">
+      <DependentUpon>daily_expence_items_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delivered_Items_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delivered_Items_Form.Designer.cs">
+      <DependentUpon>Delivered_Items_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delivered_Order_List_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delivered_Order_List_Form.Designer.cs">
+      <DependentUpon>Delivered_Order_List_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deliver_Order_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deliver_Order_Form.Designer.cs">
+      <DependentUpon>Deliver_Order_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Order_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Order_Form.Designer.cs">
+      <DependentUpon>Edit_Order_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Shoper_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Shoper_Form.Designer.cs">
+      <DependentUpon>Edit_Shoper_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee salary form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee salary form.Designer.cs">
+      <DependentUpon>Employee salary form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Addvance_Rupees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Addvance_Rupees.Designer.cs">
+      <DependentUpon>Employee_Addvance_Rupees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_attendance_control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="employee_attendance_control.Designer.cs">
+      <DependentUpon>employee_attendance_control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_edit_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_edit_form.Designer.cs">
+      <DependentUpon>Employee_edit_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_form.Designer.cs">
+      <DependentUpon>Employee_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_list_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_list_form.Designer.cs">
+      <DependentUpon>employee_list_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Organizer_Class.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generate_Summary_Report_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generate_Summary_Report_Form.Designer.cs">
+      <DependentUpon>Generate_Summary_Report_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Industerial_Expence_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Industerial_Expence_Form.Designer.cs">
+      <DependentUpon>Industerial_Expence_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list_employee_item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="list_employee_item.Designer.cs">
+      <DependentUpon>list_employee_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager Income.Designer.cs">
+      <DependentUpon>Manager Income.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manager_details_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manager_details_Form.Designer.cs">
+      <DependentUpon>manager_details_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manager_income_details_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manager_income_details_Form.Designer.cs">
+      <DependentUpon>manager_income_details_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ordered_Items_Delivery_Details_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ordered_Items_Delivery_Details_Form.Designer.cs">
+      <DependentUpon>Ordered_Items_Delivery_Details_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ordered_Items_Edit_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ordered_Items_Edit_Form.Designer.cs">
+      <DependentUpon>Ordered_Items_Edit_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order_Form.Designer.cs">
+      <DependentUpon>Order_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order_items_UserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="order_items_UserControl.Designer.cs">
+      <DependentUpon>order_items_UserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order_organizer_Class.cs" />
+    <Compile Include="Order_Raceed_Pic_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order_Raceed_Pic_Form.Designer.cs">
+      <DependentUpon>Order_Raceed_Pic_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_Borrowed_Rupees_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_Borrowed_Rupees_Form.Designer.cs">
+      <DependentUpon>Pay_Borrowed_Rupees_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_Return_Rupees_To_Shopper_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_Return_Rupees_To_Shopper_Form.Designer.cs">
+      <DependentUpon>Pay_Return_Rupees_To_Shopper_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Progress_Bar_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Progress_Bar_Form.Designer.cs">
+      <DependentUpon>Progress_Bar_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purcahse_Product_from_Shopper_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purcahse_Product_from_Shopper_Form.Designer.cs">
+      <DependentUpon>Purcahse_Product_from_Shopper_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchased_Items_Record_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchased_Items_Record_Form.Designer.cs">
+      <DependentUpon>Purchased_Items_Record_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recieved_Order_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recieved_Order_Form.Designer.cs">
+      <DependentUpon>Recieved_Order_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recieve_Order_Rupees_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recieve_Order_Rupees_Form.Designer.cs">
+      <DependentUpon>Recieve_Order_Rupees_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reciev_Order_Item_Rupees_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reciev_Order_Item_Rupees_Form.Designer.cs">
+      <DependentUpon>Reciev_Order_Item_Rupees_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary_Generator_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary_Generator_Form.Designer.cs">
+      <DependentUpon>Salary_Generator_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shopers_UserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Shopers_UserControl.Designer.cs">
+      <DependentUpon>Shopers_UserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shoper_Data_Holder_Class.cs" />
+    <Compile Include="Shoper_Details_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shoper_Details_Form.Designer.cs">
+      <DependentUpon>Shoper_Details_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shoper_List_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shoper_List_Form.Designer.cs">
+      <DependentUpon>Shoper_List_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sumary Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sumary Form.Designer.cs">
+      <DependentUpon>sumary Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Orderd Items.resx">
+      <DependentUpon>Add Orderd Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add Order_Recieved_Rupees_Form.resx">
+      <DependentUpon>Add Order_Recieved_Rupees_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Advance_Rupees_Form.resx">
+      <DependentUpon>Add_Advance_Rupees_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_employee_Form.resx">
+      <DependentUpon>add_employee_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attenadanceMark_form.resx">
+      <DependentUpon>attenadanceMark_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendance_mark_Form2.resx">
+      <DependentUpon>attendance_mark_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calaculate_Items_Berhoti_Form.resx">
+      <DependentUpon>Calaculate_Items_Berhoti_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check_Induterial_Expence_Form.resx">
+      <DependentUpon>Check_Induterial_Expence_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cut_addvance_rupees_form.resx">
+      <DependentUpon>cut_addvance_rupees_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daily_expence_Form.resx">
+      <DependentUpon>daily_expence_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daily_expence_items_Form.resx">
+      <DependentUpon>daily_expence_items_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivered_Items_Form.resx">
+      <DependentUpon>Delivered_Items_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivered_Order_List_Form.resx">
+      <DependentUpon>Delivered_Order_List_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deliver_Order_Form.resx">
+      <DependentUpon>Deliver_Order_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Order_Form.resx">
+      <DependentUpon>Edit_Order_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Shoper_Form.resx">
+      <DependentUpon>Edit_Shoper_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee salary form.resx">
+      <DependentUpon>Employee salary form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Addvance_Rupees.resx">
+      <DependentUpon>Employee_Addvance_Rupees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_attendance_control.resx">
+      <DependentUpon>employee_attendance_control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_edit_form.resx">
+      <DependentUpon>Employee_edit_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_form.resx">
+      <DependentUpon>Employee_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_list_form.resx">
+      <DependentUpon>employee_list_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.ur.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generate_Summary_Report_Form.resx">
+      <DependentUpon>Generate_Summary_Report_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Industerial_Expence_Form.resx">
+      <DependentUpon>Industerial_Expence_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_employee_item.resx">
+      <DependentUpon>list_employee_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager Income.resx">
+      <DependentUpon>Manager Income.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manager_details_Form.resx">
+      <DependentUpon>manager_details_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manager_income_details_Form.resx">
+      <DependentUpon>manager_income_details_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ordered_Items_Delivery_Details_Form.resx">
+      <DependentUpon>Ordered_Items_Delivery_Details_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ordered_Items_Edit_Form.resx">
+      <DependentUpon>Ordered_Items_Edit_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_Form.resx">
+      <DependentUpon>Order_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_items_UserControl.resx">
+      <DependentUpon>order_items_UserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_Raceed_Pic_Form.resx">
+      <DependentUpon>Order_Raceed_Pic_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay_Borrowed_Rupees_Form.resx">
+      <DependentUpon>Pay_Borrowed_Rupees_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay_Return_Rupees_To_Shopper_Form.resx">
+      <DependentUpon>Pay_Return_Rupees_To_Shopper_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Progress_Bar_Form.resx">
+      <DependentUpon>Progress_Bar_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Purcahse_Product_from_Shopper_Form.resx">
+      <DependentUpon>Purcahse_Product_from_Shopper_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchased_Items_Record_Form.resx">
+      <DependentUpon>Purchased_Items_Record_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recieved_Order_Form.resx">
+      <DependentUpon>Recieved_Order_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recieve_Order_Rupees_Form.resx">
+      <DependentUpon>Recieve_Order_Rupees_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reciev_Order_Item_Rupees_Form.resx">
+      <DependentUpon>Reciev_Order_Item_Rupees_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary_Generator_Form.resx">
+      <DependentUpon>Salary_Generator_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shopers_UserControl.resx">
+      <DependentUpon>Shopers_UserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shoper_Details_Form.resx">
+      <DependentUpon>Shoper_Details_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shoper_List_Form.resx">
+      <DependentUpon>Shoper_List_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sumary Form.resx">
+      <DependentUpon>sumary Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ApplicationDatabaseDataSet.xsc">
+      <DependentUpon>ApplicationDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ApplicationDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApplicationDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApplicationDatabaseDataSet.xss">
+      <DependentUpon>ApplicationDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationDatabase.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ApplicationDatabase_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ApplicationDatabase.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

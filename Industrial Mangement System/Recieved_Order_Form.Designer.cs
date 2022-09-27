@@ -1,0 +1,655 @@
+﻿
+namespace Industrial_Mangement_System
+{
+    partial class Recieved_Order_Form
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Recieved_Order_Form));
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Address_textBox = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.Cnic_Number_textBox = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.Phone_Number_textBox = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.Client_name_textBox = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.show_orderItems_dataGridView = new System.Windows.Forms.DataGridView();
+            this.label2 = new System.Windows.Forms.Label();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.order_dateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.ReceRupees_textBox = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.NetPay_textBox = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.orderStatus_textBox = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.TotalPay_textBox = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.orderNumber_textBox = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.Cancel_button = new System.Windows.Forms.Button();
+            this.Save_button_button = new System.Windows.Forms.Button();
+            this.tableLayoutPanel2.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.show_orderItems_dataGridView)).BeginInit();
+            this.panel6.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // tableLayoutPanel2
+            // 
+            this.tableLayoutPanel2.BackColor = System.Drawing.Color.MidnightBlue;
+            this.tableLayoutPanel2.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Single;
+            this.tableLayoutPanel2.ColumnCount = 4;
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 210F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 115F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 121F));
+            this.tableLayoutPanel2.Controls.Add(this.button2, 2, 0);
+            this.tableLayoutPanel2.Controls.Add(this.button3, 3, 0);
+            this.tableLayoutPanel2.Controls.Add(this.button4, 0, 0);
+            this.tableLayoutPanel2.Controls.Add(this.label1, 1, 0);
+            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.tableLayoutPanel2.ForeColor = System.Drawing.SystemColors.Control;
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
+            this.tableLayoutPanel2.RowCount = 1;
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1568, 68);
+            this.tableLayoutPanel2.TabIndex = 4;
+            // 
+            // button2
+            // 
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("MS Reference Sans Serif", 18F, System.Drawing.FontStyle.Bold);
+            this.button2.ForeColor = System.Drawing.Color.White;
+            this.button2.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.button2.Location = new System.Drawing.Point(1333, 4);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(109, 60);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "-";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button3.FlatAppearance.BorderSize = 0;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F);
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.button3.Location = new System.Drawing.Point(1449, 4);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(115, 60);
+            this.button3.TabIndex = 5;
+            this.button3.Text = "X";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button4
+            // 
+            this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button4.FlatAppearance.BorderSize = 0;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.ForeColor = System.Drawing.Color.White;
+            this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
+            this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button4.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.button4.Location = new System.Drawing.Point(4, 4);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(204, 60);
+            this.button4.TabIndex = 6;
+            this.button4.Text = "         Back";
+            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // label1
+            // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(657, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(227, 32);
+            this.label1.TabIndex = 30;
+            this.label1.Text = "Recieved Order";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // panel1
+            // 
+            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.tableLayoutPanel1);
+            this.panel1.Controls.Add(this.Address_textBox);
+            this.panel1.Controls.Add(this.label5);
+            this.panel1.Controls.Add(this.Cnic_Number_textBox);
+            this.panel1.Controls.Add(this.label6);
+            this.panel1.Controls.Add(this.Phone_Number_textBox);
+            this.panel1.Controls.Add(this.label4);
+            this.panel1.Controls.Add(this.Client_name_textBox);
+            this.panel1.Controls.Add(this.label3);
+            this.panel1.Location = new System.Drawing.Point(0, 68);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1564, 270);
+            this.panel1.TabIndex = 5;
+            // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.White;
+            this.tableLayoutPanel1.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.OutsetDouble;
+            this.tableLayoutPanel1.ColumnCount = 1;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 349F));
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox1, 0, 0);
+            this.tableLayoutPanel1.ImeMode = System.Windows.Forms.ImeMode.On;
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(660, 40);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 1;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(246, 223);
+            this.tableLayoutPanel1.TabIndex = 16;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(6, 6);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(233, 210);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // Address_textBox
+            // 
+            this.Address_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Address_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Address_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Address_textBox.Location = new System.Drawing.Point(981, 216);
+            this.Address_textBox.Multiline = true;
+            this.Address_textBox.Name = "Address_textBox";
+            this.Address_textBox.Size = new System.Drawing.Size(544, 38);
+            this.Address_textBox.TabIndex = 15;
+            // 
+            // label5
+            // 
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(974, 181);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(126, 32);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "Address";
+            // 
+            // Cnic_Number_textBox
+            // 
+            this.Cnic_Number_textBox.BackColor = System.Drawing.Color.White;
+            this.Cnic_Number_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Cnic_Number_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Cnic_Number_textBox.Location = new System.Drawing.Point(38, 210);
+            this.Cnic_Number_textBox.MaxLength = 15;
+            this.Cnic_Number_textBox.Multiline = true;
+            this.Cnic_Number_textBox.Name = "Cnic_Number_textBox";
+            this.Cnic_Number_textBox.Size = new System.Drawing.Size(544, 38);
+            this.Cnic_Number_textBox.TabIndex = 13;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(32, 175);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(200, 32);
+            this.label6.TabIndex = 12;
+            this.label6.Text = "CNIC Number";
+            // 
+            // Phone_Number_textBox
+            // 
+            this.Phone_Number_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Phone_Number_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Phone_Number_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Phone_Number_textBox.Location = new System.Drawing.Point(980, 81);
+            this.Phone_Number_textBox.Multiline = true;
+            this.Phone_Number_textBox.Name = "Phone_Number_textBox";
+            this.Phone_Number_textBox.Size = new System.Drawing.Size(544, 38);
+            this.Phone_Number_textBox.TabIndex = 11;
+            // 
+            // label4
+            // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(974, 46);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(217, 32);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Phone Number";
+            // 
+            // Client_name_textBox
+            // 
+            this.Client_name_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Client_name_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Client_name_textBox.Location = new System.Drawing.Point(38, 75);
+            this.Client_name_textBox.Multiline = true;
+            this.Client_name_textBox.Name = "Client_name_textBox";
+            this.Client_name_textBox.Size = new System.Drawing.Size(544, 38);
+            this.Client_name_textBox.TabIndex = 9;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(32, 40);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(182, 32);
+            this.label3.TabIndex = 8;
+            this.label3.Text = "Client Name";
+            // 
+            // show_orderItems_dataGridView
+            // 
+            this.show_orderItems_dataGridView.AllowUserToAddRows = false;
+            this.show_orderItems_dataGridView.AllowUserToDeleteRows = false;
+            this.show_orderItems_dataGridView.AllowUserToResizeColumns = false;
+            this.show_orderItems_dataGridView.AllowUserToResizeRows = false;
+            this.show_orderItems_dataGridView.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.show_orderItems_dataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.show_orderItems_dataGridView.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.show_orderItems_dataGridView.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.show_orderItems_dataGridView.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Navy;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.show_orderItems_dataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.show_orderItems_dataGridView.ColumnHeadersHeight = 49;
+            this.show_orderItems_dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Gainsboro;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Gainsboro;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.show_orderItems_dataGridView.DefaultCellStyle = dataGridViewCellStyle2;
+            this.show_orderItems_dataGridView.EnableHeadersVisualStyles = false;
+            this.show_orderItems_dataGridView.GridColor = System.Drawing.Color.White;
+            this.show_orderItems_dataGridView.Location = new System.Drawing.Point(38, 423);
+            this.show_orderItems_dataGridView.Name = "show_orderItems_dataGridView";
+            this.show_orderItems_dataGridView.ReadOnly = true;
+            this.show_orderItems_dataGridView.RowHeadersVisible = false;
+            this.show_orderItems_dataGridView.RowHeadersWidth = 51;
+            this.show_orderItems_dataGridView.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.Black;
+            this.show_orderItems_dataGridView.RowsDefaultCellStyle = dataGridViewCellStyle3;
+            this.show_orderItems_dataGridView.RowTemplate.Height = 34;
+            this.show_orderItems_dataGridView.Size = new System.Drawing.Size(1487, 181);
+            this.show_orderItems_dataGridView.TabIndex = 25;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Navy;
+            this.label2.Location = new System.Drawing.Point(31, 368);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(339, 38);
+            this.label2.TabIndex = 26;
+            this.label2.Text = "Order Raceed Image";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // panel6
+            // 
+            this.panel6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel6.BackColor = System.Drawing.Color.White;
+            this.panel6.Controls.Add(this.order_dateTimePicker);
+            this.panel6.Controls.Add(this.ReceRupees_textBox);
+            this.panel6.Controls.Add(this.label8);
+            this.panel6.Controls.Add(this.label9);
+            this.panel6.Controls.Add(this.NetPay_textBox);
+            this.panel6.Controls.Add(this.label11);
+            this.panel6.Controls.Add(this.orderStatus_textBox);
+            this.panel6.Controls.Add(this.label12);
+            this.panel6.Controls.Add(this.TotalPay_textBox);
+            this.panel6.Controls.Add(this.label13);
+            this.panel6.Controls.Add(this.orderNumber_textBox);
+            this.panel6.Controls.Add(this.label14);
+            this.panel6.Location = new System.Drawing.Point(3, 645);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(1561, 234);
+            this.panel6.TabIndex = 28;
+            // 
+            // order_dateTimePicker
+            // 
+            this.order_dateTimePicker.CalendarFont = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.order_dateTimePicker.CalendarForeColor = System.Drawing.Color.Navy;
+            this.order_dateTimePicker.CalendarMonthBackground = System.Drawing.Color.Navy;
+            this.order_dateTimePicker.CalendarTitleBackColor = System.Drawing.Color.Navy;
+            this.order_dateTimePicker.CalendarTitleForeColor = System.Drawing.Color.White;
+            this.order_dateTimePicker.CalendarTrailingForeColor = System.Drawing.SystemColors.ControlText;
+            this.order_dateTimePicker.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.order_dateTimePicker.CustomFormat = "dd   MMMM   yyyy";
+            this.order_dateTimePicker.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.order_dateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.order_dateTimePicker.Location = new System.Drawing.Point(36, 47);
+            this.order_dateTimePicker.MaxDate = new System.DateTime(9998, 12, 1, 0, 0, 0, 0);
+            this.order_dateTimePicker.MinDate = new System.DateTime(1753, 5, 15, 0, 0, 0, 0);
+            this.order_dateTimePicker.Name = "order_dateTimePicker";
+            this.order_dateTimePicker.Size = new System.Drawing.Size(490, 38);
+            this.order_dateTimePicker.TabIndex = 23;
+            this.order_dateTimePicker.Value = new System.DateTime(2021, 6, 20, 0, 0, 0, 0);
+            // 
+            // ReceRupees_textBox
+            // 
+            this.ReceRupees_textBox.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.ReceRupees_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ReceRupees_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ReceRupees_textBox.Location = new System.Drawing.Point(531, 177);
+            this.ReceRupees_textBox.Multiline = true;
+            this.ReceRupees_textBox.Name = "ReceRupees_textBox";
+            this.ReceRupees_textBox.Size = new System.Drawing.Size(490, 38);
+            this.ReceRupees_textBox.TabIndex = 19;
+            this.ReceRupees_textBox.Text = "0";
+            this.ReceRupees_textBox.TextChanged += new System.EventHandler(this.ReceRupees_textBox_TextChanged);
+            // 
+            // label8
+            // 
+            this.label8.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(525, 142);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(254, 32);
+            this.label8.TabIndex = 18;
+            this.label8.Text = "Received Rupees";
+            // 
+            // label9
+            // 
+            this.label9.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(525, 9);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(187, 32);
+            this.label9.TabIndex = 16;
+            this.label9.Text = "Order Status";
+            // 
+            // NetPay_textBox
+            // 
+            this.NetPay_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.NetPay_textBox.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.NetPay_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.NetPay_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NetPay_textBox.Location = new System.Drawing.Point(1031, 177);
+            this.NetPay_textBox.Multiline = true;
+            this.NetPay_textBox.Name = "NetPay_textBox";
+            this.NetPay_textBox.ReadOnly = true;
+            this.NetPay_textBox.Size = new System.Drawing.Size(490, 38);
+            this.NetPay_textBox.TabIndex = 15;
+            this.NetPay_textBox.Text = "0";
+            // 
+            // label11
+            // 
+            this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(1026, 142);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(122, 32);
+            this.label11.TabIndex = 14;
+            this.label11.Text = "Net Pay";
+            // 
+            // orderStatus_textBox
+            // 
+            this.orderStatus_textBox.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.orderStatus_textBox.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.orderStatus_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.orderStatus_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.orderStatus_textBox.Location = new System.Drawing.Point(531, 47);
+            this.orderStatus_textBox.Multiline = true;
+            this.orderStatus_textBox.Name = "orderStatus_textBox";
+            this.orderStatus_textBox.Size = new System.Drawing.Size(490, 38);
+            this.orderStatus_textBox.TabIndex = 13;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(30, 142);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(206, 32);
+            this.label12.TabIndex = 12;
+            this.label12.Text = "Order Number";
+            // 
+            // TotalPay_textBox
+            // 
+            this.TotalPay_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.TotalPay_textBox.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.TotalPay_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.TotalPay_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TotalPay_textBox.Location = new System.Drawing.Point(1032, 47);
+            this.TotalPay_textBox.Multiline = true;
+            this.TotalPay_textBox.Name = "TotalPay_textBox";
+            this.TotalPay_textBox.ReadOnly = true;
+            this.TotalPay_textBox.Size = new System.Drawing.Size(490, 38);
+            this.TotalPay_textBox.TabIndex = 11;
+            this.TotalPay_textBox.Text = "0";
+            // 
+            // label13
+            // 
+            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(1026, 9);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(210, 32);
+            this.label13.TabIndex = 10;
+            this.label13.Text = "Total Item Pay";
+            // 
+            // orderNumber_textBox
+            // 
+            this.orderNumber_textBox.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.orderNumber_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.orderNumber_textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.orderNumber_textBox.Location = new System.Drawing.Point(35, 177);
+            this.orderNumber_textBox.Multiline = true;
+            this.orderNumber_textBox.Name = "orderNumber_textBox";
+            this.orderNumber_textBox.ReadOnly = true;
+            this.orderNumber_textBox.Size = new System.Drawing.Size(490, 38);
+            this.orderNumber_textBox.TabIndex = 9;
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.Location = new System.Drawing.Point(29, 9);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(79, 32);
+            this.label14.TabIndex = 8;
+            this.label14.Text = "Date";
+            // 
+            // label18
+            // 
+            this.label18.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label18.AutoEllipsis = true;
+            this.label18.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.Color.Navy;
+            this.label18.Location = new System.Drawing.Point(1254, 368);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(270, 39);
+            this.label18.TabIndex = 29;
+            this.label18.Text = ">> Add Items";
+            this.label18.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.label18.Click += new System.EventHandler(this.label18_Click_1);
+            // 
+            // Cancel_button
+            // 
+            this.Cancel_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.Cancel_button.BackColor = System.Drawing.Color.Navy;
+            this.Cancel_button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Cancel_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Cancel_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Cancel_button.ForeColor = System.Drawing.Color.White;
+            this.Cancel_button.Location = new System.Drawing.Point(502, 951);
+            this.Cancel_button.Name = "Cancel_button";
+            this.Cancel_button.Size = new System.Drawing.Size(223, 73);
+            this.Cancel_button.TabIndex = 12;
+            this.Cancel_button.Text = "Cancel";
+            this.Cancel_button.UseVisualStyleBackColor = false;
+            this.Cancel_button.Click += new System.EventHandler(this.Cancel_button_Click);
+            // 
+            // Save_button_button
+            // 
+            this.Save_button_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.Save_button_button.BackColor = System.Drawing.Color.Navy;
+            this.Save_button_button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Save_button_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Save_button_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Save_button_button.ForeColor = System.Drawing.Color.White;
+            this.Save_button_button.Location = new System.Drawing.Point(849, 951);
+            this.Save_button_button.Name = "Save_button_button";
+            this.Save_button_button.Size = new System.Drawing.Size(223, 73);
+            this.Save_button_button.TabIndex = 11;
+            this.Save_button_button.Text = "Save";
+            this.Save_button_button.UseVisualStyleBackColor = false;
+            this.Save_button_button.Click += new System.EventHandler(this.Save_button_button_Click);
+            // 
+            // Recieved_Order_Form
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1568, 1065);
+            this.Controls.Add(this.Cancel_button);
+            this.Controls.Add(this.Save_button_button);
+            this.Controls.Add(this.label18);
+            this.Controls.Add(this.panel6);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.show_orderItems_dataGridView);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.tableLayoutPanel2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "Recieved_Order_Form";
+            this.ShowInTaskbar = false;
+            this.Text = "Recieved_Order_Form";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Recieved_Order_Form_Load);
+            this.tableLayoutPanel2.ResumeLayout(false);
+            this.tableLayoutPanel2.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.tableLayoutPanel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.show_orderItems_dataGridView)).EndInit();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.TextBox Address_textBox;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox Cnic_Number_textBox;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox Phone_Number_textBox;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox Client_name_textBox;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DataGridView show_orderItems_dataGridView;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.TextBox ReceRupees_textBox;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox NetPay_textBox;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.TextBox orderStatus_textBox;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox TotalPay_textBox;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.TextBox orderNumber_textBox;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Button Cancel_button;
+        private System.Windows.Forms.Button Save_button_button;
+        private System.Windows.Forms.DateTimePicker order_dateTimePicker;
+    }
+}
